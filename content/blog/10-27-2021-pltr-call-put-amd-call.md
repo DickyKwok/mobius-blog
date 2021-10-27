@@ -5,7 +5,7 @@ publishedDate: 2021-10-27T06:40:55.483Z
 description: |-
   +2562.98
   +1.17%
-featured: false
+featured: true
 img: ../../static/images/e69717df45e14d31a6dc23bc874d2ea9.png
 imgAlt: pltr
 tags:
