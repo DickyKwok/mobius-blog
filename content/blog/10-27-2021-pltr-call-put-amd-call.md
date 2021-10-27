@@ -9,7 +9,9 @@ featured: true
 img: ../../static/images/e69717df45e14d31a6dc23bc874d2ea9.png
 imgAlt: pltr
 tags:
-  - "#option #pltr #amd"
+  - option
+  - pltr
+  - amd
 ---
 1. PLTR 沽出 25.90 500 08:51:44 - rise high in pre-market
 
