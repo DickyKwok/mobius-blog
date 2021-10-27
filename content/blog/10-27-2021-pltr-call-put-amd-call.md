@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: 10/27/2021 - PLTR call put & AMD call
+title: PLTR call put & AMD call
 publishedDate: 2021-10-27T06:40:55.483Z
 description: |-
   +2562.98
